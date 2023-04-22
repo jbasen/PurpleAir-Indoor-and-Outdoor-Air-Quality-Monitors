@@ -14,3 +14,6 @@ inside and outside the home.
 
 The driver code to communicate with the PurpleAir air quality monitors is written in C# and, without 
 too much difficulty, could be ported to another smart home platform.
+
+V2 Has been tested with PurpleAir's latest generation of indoor/outoor air quality monitors
+It also combines the basic and detailed modules into a single module
